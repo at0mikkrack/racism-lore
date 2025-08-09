@@ -11,5 +11,5 @@ Want to add a character, place, or historical event? Use the Issues tab!
 
 1. Go to the [Issues](https://github.com/yourusername/lore-wiki/issues) tab.
 2. Click "New Issue".
-3. Use this format:
+3. Use this format: [Submission Guide](SUBMMITING_LORE.md)
 
